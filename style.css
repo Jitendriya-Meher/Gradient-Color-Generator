@@ -102,3 +102,8 @@ body{
     background: #8a6cff;
 }
 
+.me{
+    position: absolute;
+    bottom: 2%;
+    font-weight: 500;
+}
